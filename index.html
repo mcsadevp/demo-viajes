@@ -33,7 +33,78 @@
         <nav></nav>
         <header></header>
         <main></main>
-        <section></section>
-        <footer></footer>
+        <section class="bg-dark text-white py-4">
+            <div class="container mt-5">
+                <h3 class="text-center text-uppercase">Contacto</h3>
+                <hr />
+                <form>
+                    <div class="mb-3">
+                        <label for="nombre" class="form-label">Nombre</label>
+                        <input
+                            type="text"
+                            class="form-control"
+                            id="nombre"
+                            required
+                        />
+                    </div>
+                    <div class="mb-3">
+                        <label for="asunto" class="form-label">Asunto</label>
+                        <input
+                            type="text"
+                            class="form-control"
+                            id="asunto"
+                            required
+                        />
+                    </div>
+                    <div class="mb-3">
+                        <label for="mensaje" class="form-label">Mensaje</label>
+                        <textarea
+                            class="form-control"
+                            id="mensaje"
+                            rows="10"
+                            required
+                        ></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-info text-white">
+                        Enviar
+                    </button>
+                </form>
+            </div>
+        </section>
+        <footer class="bg-info p-4">
+            <div
+                class="container d-flex justify-content-around align-items-center"
+            >
+                <h2 class="text-uppercase text-white footer-titulo">
+                    Viajes Chile
+                </h2>
+                <div class="d-flex align-items-center">
+                    <div class="me-3">
+                        <i
+                            class="fa-brands fa-github fa-2xl"
+                            style="color: white"
+                        ></i>
+                    </div>
+                    <div class="me-3">
+                        <i
+                            class="fa-brands fa-linkedin fa-2xl"
+                            style="color: white"
+                        ></i>
+                    </div>
+                    <div class="me-3">
+                        <i
+                            class="fa-brands fa-square-twitter fa-2xl"
+                            style="color: white"
+                        ></i>
+                    </div>
+                    <div>
+                        <i
+                            class="fa-brands fa-square-facebook fa-2xl"
+                            style="color: white"
+                        ></i>
+                    </div>
+                </div>
+            </div>
+        </footer>
     </body>
 </html>
