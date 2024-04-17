@@ -1,15 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
 
-
-
-
-body{
+body {
     font-family: "Raleway";
 }
 
-#icono{
+#icono {
     width: 30px;
 }
-.titulo{
+.titulo {
     width: 100px;
 }
 
@@ -19,17 +19,18 @@ body{
 #blur {
     -webkit-backdrop-filter: blur(8px);
     backdrop-filter: blur(8px);
-  }
-  #favicon {
+}
+#favicon {
     width: 35px;
-  }
-  p , h2 , h5{
-    color:white;
-  }
+}
+p,
+h2,
+h5 {
+    color: white;
+}
 
-  @media (max-width:768px ) {
-    #presentacion{
+@media (max-width: 768px) {
+    #presentacion {
         display: none;
     }
-  }
- 
+}
