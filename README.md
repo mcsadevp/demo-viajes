@@ -1,0 +1,1 @@
+## Carrusel se genero por medio de boostrap, se llama tipo de carrusel indicators
