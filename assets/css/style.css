@@ -1,3 +1,11 @@
+
+
+
+
+body{
+    font-family: "Raleway";
+}
+
 #icono{
     width: 30px;
 }
@@ -8,3 +16,13 @@
 .footer-titulo {
     font-weight: 300;
 }
+#blur {
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+  }
+  #favicon {
+    width: 35px;
+  }
+  p , h2 , h5{
+    color:white;
+  }
