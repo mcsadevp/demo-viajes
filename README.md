@@ -4,11 +4,11 @@ Este es un proyecto impresionante que hace cosas increíbles.
 
 ## Tecnologías Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Font Awesome
+-   HTML5
+-   CSS3
+-   JavaScript
+-   Bootstrap
+-   Font Awesome
 
 ## Instalación
 
@@ -17,9 +17,9 @@ Este es un proyecto impresionante que hace cosas increíbles.
 
 ## Paleta de Colores
 
-- **Background:** `Black`
-- **Texto:** `while`
-- **Body Card:** `info`
+-   **Background:** `Black`
+-   **Texto:** `while`
+-   **Body Card:** `info`
 
 ## Fuentes
 
@@ -37,5 +37,9 @@ Las fuentes utilizadas en este proyecto son:
 6. twitter fa-brands fa-square-twitter
 7. facebook fa-brands fa-square-facebook
 
+## Integrantes
 
-
+-   Joaquin Baeza
+-   Ingrid Onate
+-   Nicolas Valderrama
+-   Matias Carrion
